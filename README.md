@@ -1,6 +1,6 @@
-### SUBIN KIM
+# Subin Kim
 
-- 🎓 currently studying B.S. in Statistics at Sungkyunkwan University | 2019.03 ~ Present
+- <2019.03 ~ Present> B.S. in Statistics at Sungkyunkwan University
 
 # Activities
 - Data Analysis Group DScover | 2021.02 ~ 2021.12
